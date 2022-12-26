@@ -1,0 +1,19 @@
+{
+  "name": "js-essential-for-automation",
+  "version": "1.0.0",
+  "description": "js-essential udemy course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "node.js"
+  ],
+  "author": "Diego Corredor",
+  "license": "ISC",
+  "devDependencies": {
+    "fetch": "^1.1.0",
+    "node-fetch": "^2.6.7"
+  }
+}
