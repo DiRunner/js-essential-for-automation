@@ -5,8 +5,12 @@
  */
 
 class Page {
-    constructor(){
 
+    runDate
+
+    constructor(){
+        console.log('calling the parent constructor..');
+        this.runDate = ''
     }
 
     // Re-usable methods
