@@ -4,7 +4,8 @@
   "description": "js-essential udemy course",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "demo": "set TARGET=TEST && node ./wk6/node/process/processCwd.js"
   },
   "keywords": [
     "js",
