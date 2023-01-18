@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "demo": "set TARGET=TEST && node ./wk6/node/process/processCwd.js"
+    "demo": "node ./wk6/node/file-sys/writefile.js"
   },
   "keywords": [
     "js",
